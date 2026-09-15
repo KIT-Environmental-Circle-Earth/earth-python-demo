@@ -5,6 +5,7 @@ on:
       - pyproject.toml
       - src/**
       - tests/**
+      - .github/workflows/test.yml
 
   pull_request:
     branches:
